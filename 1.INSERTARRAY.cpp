@@ -8,7 +8,7 @@ int main()
 	cin>>a[i];
 	cout<<"Enter any number to insert"<<endl;
 	cin>>num;
-	a[i]=num;
+	a[5]=num;
 
 	cout<<" The new array is "<<endl;
 	for(int i=0;i<6;i++)
