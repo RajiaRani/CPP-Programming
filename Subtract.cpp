@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-	//take any two or maore than two any rendom number
+	//take any two or more random numbers
 	int x = 34;
 	int y = 23;
     
