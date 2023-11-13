@@ -12,7 +12,7 @@ int main()
 	//apply the divide formula
 	int divide = num1/num2;
 
-	//final output is
+	//final output is2
 	cout<<"The final answer is: "<<divide<<endl;
 	return 0;
 }
